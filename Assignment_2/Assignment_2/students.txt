@@ -1,0 +1,12 @@
+1001|John|Doe|18|Male|ITS|A
+1013|Alice|Billie|18|Female|ITS|A
+1023|Rafiat|Bolaji|20|Female|ITS|A
+1235|Dar|Kar|23|Female|ITS|D
+1900|Pius|Daniel|23|Male|ITS|D
+1230|Wells|Daa|23|Male|ITS|A
+1456|Lima|Fia|23|Female|IND|A
+1000|Alex|Uboh|12|Male|IND|A
+1033|Daniel|Williams|22|Male|IND|A
+1111|Billie|Charles|20|Female|ERP|B
+1005|Smith|Wells|21|Male|IND|A
+1020|Elias|Fred|12|Male|IND|C

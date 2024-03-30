@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\JUZT-OYIN\APP.DEV.C#\Assignment_2\Assignment_2\obj\Debug\Assignment_2.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\JUZT-OYIN\APP.DEV.C#\Assignment_2\Assignment_2\obj\Debug\Assignment_2.StudentAssignForm.resources
+C:\Users\Admin\Desktop\JUZT-OYIN\APP.DEV.C#\Assignment_2\Assignment_2\obj\Debug\Assignment_2.Properties.Resources.resources
+C:\Users\Admin\Desktop\JUZT-OYIN\APP.DEV.C#\Assignment_2\Assignment_2\obj\Debug\Assignment_2.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\JUZT-OYIN\APP.DEV.C#\Assignment_2\Assignment_2\obj\Debug\Assignment_2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\JUZT-OYIN\APP.DEV.C#\Assignment_2\Assignment_2\bin\Debug\Assignment_2.exe.config
+C:\Users\Admin\Desktop\JUZT-OYIN\APP.DEV.C#\Assignment_2\Assignment_2\bin\Debug\Assignment_2.exe
+C:\Users\Admin\Desktop\JUZT-OYIN\APP.DEV.C#\Assignment_2\Assignment_2\bin\Debug\Assignment_2.pdb
+C:\Users\Admin\Desktop\JUZT-OYIN\APP.DEV.C#\Assignment_2\Assignment_2\obj\Debug\Assignment_2.exe
+C:\Users\Admin\Desktop\JUZT-OYIN\APP.DEV.C#\Assignment_2\Assignment_2\obj\Debug\Assignment_2.pdb
+C:\Users\Admin\Desktop\JUZT-OYIN\APP.DEV.C#\Assignment_2\Assignment_2\obj\Debug\Assignment_2.LoginForm.resources
+C:\Users\Admin\Desktop\JUZT-OYIN\APP.DEV.C#\Assignment_2\Assignment_2\obj\Debug\Assignment_2.AssignmentForm.resources
